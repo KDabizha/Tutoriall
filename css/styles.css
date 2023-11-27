@@ -1,0 +1,140 @@
+html,
+body{
+    margin: 0;
+    height: 100%;
+}
+
+.main-page { 
+    background:  #2E2F42;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+.text-main-paige {
+    color: #FFF;
+    padding-top: 188px;
+    padding-bottom: 292px;
+    padding-right: 472px ;
+    padding-left: 472px;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+    letter-spacing: 1.12px;
+    margin: auto;
+}
+
+.maim-page-btn {
+    border-radius: 4px;
+    background:  #4D5AE5;
+    border: none;
+    color:  #FFF;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 32px;
+    padding-left: 32px;
+    font-size: 16px;
+    font-style: normal;
+    margin-top: 356px ;
+    margin-bottom: 188px ;
+    margin-left: 635px; ;
+    margin-right: 635px;  
+}
+
+.wrapper {
+    display: flex;
+    width: 264px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+.Feature {
+    
+    padding-top: 120px;
+    padding-bottom: 200px;
+}
+.Feature1-title {
+    color: #2E2F42;
+    
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+    width: 264px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+.Feature1-title-descr {
+    color:  #434455;
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
+    margin: 0%;
+}
+
+.Feature2-title {
+    color: #2E2F42;
+    
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+    width: 264px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+
+.Feature2-title-descr {
+    color:  #434455;
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
+    margin: 0%;
+}
+
+.Header2 {
+    color: #2E2F42;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    padding-top: 120px;
+    padding-bottom: 72px;
+}
+
+.Team-Card1 {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+    margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.wrapper {
+    display: inline-flex;
+    padding-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+
+
