@@ -6,11 +6,14 @@ body{
 
 .main-page { 
     background:  #2E2F42;
+    border: 1px solid #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 .wrapper{
-    width: 1170px;
+    width: 1440px;
     margin: auto;
+   
 }
 .text-main-paige {
     color: #FFF;
@@ -39,10 +42,10 @@ body{
     padding-left: 32px;
     font-size: 16px;
     font-style: normal;
-    margin-top: 356px ;
+    margin-top: 48px ;
     margin-bottom: 188px ;
-    margin-left: 635px; ;
-    margin-right: 635px;  
+    margin-left: 636px; ;
+    margin-right: 636px;  
 }
 
 .wrapper {
